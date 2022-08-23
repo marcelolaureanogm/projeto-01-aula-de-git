@@ -1,4 +1,3 @@
-ana claudia 
-marcelo
-gabriel
-matheus
+digite seu email
+digite sua senha
+digite sua idade
